@@ -134,8 +134,9 @@ quit/exit
 ## Submission
 
 1. **Implement the methods** in `MUDController.java` without modifying method signatures.  
-2. **Submit** your Java files (`MUDController.java`, any other relevant classes) via your usual process (GitHub repo, LMS upload, etc.).  
 3. Provide **instructions** (or a short `Main` method) showing how to compile/run your code.  
+2. **Submit** your github link to Canvas
+
 4. For extra credit, add at least one new command (like `attack`, `open door`, or `talk`) to demonstrate extension.
 
 **Good luck, and have fun building your MUD controller!**
